@@ -1,0 +1,7 @@
+"metric","value"
+"metadata_rows",80
+"survival_rows",73
+"matched_metadata_rows",72
+"metadata_without_valid_survival",8
+"survival_without_metadata",1
+"joined_rows",80

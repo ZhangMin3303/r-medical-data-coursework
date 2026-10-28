@@ -1,0 +1,8 @@
+"metric","value"
+"input_features",12
+"input_expression_samples",78
+"matched_samples",76
+"expression_without_metadata",2
+"metadata_without_expression",4
+"dropped_features",2
+"used_features",10

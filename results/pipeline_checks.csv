@@ -1,0 +1,7 @@
+"check","passed"
+"metadata_ids_unique",TRUE
+"left_join_preserves_rows",TRUE
+"survival_events_binary",TRUE
+"pca_variance_sums_to_one",TRUE
+"pca_reconstruction_error_small",TRUE
+"synthetic_ids_only",TRUE

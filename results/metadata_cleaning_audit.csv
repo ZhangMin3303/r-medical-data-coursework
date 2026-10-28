@@ -1,0 +1,7 @@
+"metric","value"
+"input_rows",82
+"exact_duplicates_removed",2
+"retained_rows",80
+"age_missing",3
+"age_invalid",2
+"sex_unknown",1

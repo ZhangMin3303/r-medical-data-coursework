@@ -1,0 +1,16 @@
+# Private/custom data and local runs must stay out of the public allowlist.
+/data/
+/work/
+/.Rlib/
+/renv/
+/.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+*.rda
+*.RData
+*.log
+*.tmp
+.env
+.env.*
